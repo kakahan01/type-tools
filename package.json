@@ -1,0 +1,28 @@
+{
+  "name": "type-tools",
+  "version": "1.0.0",
+  "description": "type-tools is a simple module for Discord developers which helps you to use Discord API more easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nechs/type-tools/"
+  },
+  "keywords": [
+    "moderation",
+    "discord.js",
+    "api",
+    "snekfetch"
+  ],
+  "author": "eg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nechs/type-tools/issues/new/"
+  },
+  "homepage": "https://github.com/nechs/type-tools/#readme",
+  "dependencies": {
+    "snekfetch": "^4.0.4"
+  }
+}
